@@ -41,8 +41,6 @@ Two approaches were implemented:
 - `dataset/` → Zipped dataset (pressure sensor data)
 - `src/` → Source codes (SVM and CNN models)
 - `README.md` → This file
-- `LICENSE` → Open license
-- `CITATION.cff` → How to cite this work
 
 ---
 
