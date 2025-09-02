@@ -1,4 +1,4 @@
-# Sleep Posture & Balance Assessment Dataset and Models
+# Sleep Posture and Balance Assessment Dataset and Models
 
 ## Overview
 This repository contains the anonymized dataset and source codes used in our research paper:
