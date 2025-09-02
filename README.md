@@ -19,9 +19,6 @@ The dataset and models aim to support **human activity recognition** for healthc
   - **Balance Assessment Data** (19 participants, 3 standardized tests)
 - Data is provided as anonymized **pressure maps** with preprocessing applied (thresholding, up-sampling, smoothing, normalization).
 
-Download:  
-`dataset/Sleep_Balance_Dataset.zip`
-
 ---
 
 ## Methods
